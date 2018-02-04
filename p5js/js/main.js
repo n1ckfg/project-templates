@@ -1,7 +1,7 @@
 "use strict";
 
 function setup() {
-	createCanvas(512, 512,);
+	createCanvas(512, 512);
 }
 
 function draw() {
